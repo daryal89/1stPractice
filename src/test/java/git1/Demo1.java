@@ -9,5 +9,4 @@ public class Demo1 {
 		int d = 40;
 		int e = 50;
 	}
-
 }
